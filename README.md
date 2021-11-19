@@ -12,5 +12,5 @@ This is a 2d game that I built and designed in Unity using C#.
 * User can put down a cake slice by navigating to an empty plate
 * User wins the game when each plate has a slice of cake
 
-## Website Preview
+## Game Preview
 <img src="/GamePreview.png" alt="cake party game" width="840"/>
