@@ -1,7 +1,7 @@
 # Cake Party (2D Unity Game)
 
 ## Description
-This is a 2d game that I built and designed in Unity using C#. 
+This is a 2d game that I built and designed in Unity. 
 
 ## Live Site URL
 [https://steigelman-cake-party.netlify.app/](https://steigelman-cake-party.netlify.app/)
